@@ -1,8 +1,9 @@
 # CrySys
 An open source pentesting project. Your support is much appreciated!
 
-This is an automated involuntary data backup hack based on a **Digispark** MalDuino.
-Hats off to @seytonic for laying foundations for the MalDuino.
+>This is an automated involuntary data backup hack based on a **Digispark** MalDuino.
+>Hats off to @seytonic for laying foundations for the MalDuino.
+
 The following hack consists of two devices, namely:
 * __Digispark Malduino__
 * __Mass Storage__
@@ -21,6 +22,6 @@ ___Setting Up:___
 * Add the slurp.bat program to the __root__ direactory of the mass storage device.
 
 ___Result:___
-Enjoy watching yourself own others...
 
+Enjoy watching yourself own others...
 ...cause we love ___destruction!___
