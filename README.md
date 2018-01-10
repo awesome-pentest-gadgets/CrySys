@@ -10,7 +10,7 @@ The following hack consists of two devices, namely:
 
 __Instructions:__
 
-  _Note: Make sure any device to be automated with the malduino thumb drive must have the digispark drivers installed previously_
+  >_Note: Make sure any device to be automated with the malduino thumb drive must have the [digispark drivers](https://github.com/Ameg0/CrySys/tree/master/Digistump%20Drivers) installed previously_
 
 ___Initialization:___
 * Download and install [Arduino](https://www.arduino.cc/en/Main/Software)
@@ -19,9 +19,9 @@ ___Initialization:___
 
 ___Setting Up:___
 * Upload the malduino.ino sketch to the Digispark drive.
-* Add the slurp.bat program to the __root__ direactory of the mass storage device.
+* Add the slurp.bat to the __root__ direactory of the mass storage device.
 
 ___Result:___
 
-Enjoy watching yourself own others...
+>Enjoy watching yourself own others...
 > ...cause we love ___destruction!___
