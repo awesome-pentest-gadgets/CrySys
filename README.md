@@ -23,5 +23,5 @@ ___Setting Up:___
 
 ___Result:___
 
->Enjoy watching yourself own others...
+Enjoy watching yourself own others...
 > ...cause we love ___destruction!___
