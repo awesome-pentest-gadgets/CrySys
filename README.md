@@ -21,5 +21,6 @@ ___Setting Up:___
 * Add the slurp.bat program to the __root__ direactory of the mass storage device.
 
 ___Result:___
-Enjoy watching yourself owning others...
+Enjoy watching yourself own others...
+
 ...cause we love ___destruction!___
