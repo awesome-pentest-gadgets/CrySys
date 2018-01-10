@@ -5,7 +5,7 @@ An open source pentesting project. Your support is much appreciated!
 >Hats off to @seytonic for laying foundations for the MalDuino.
 
 The following hack consists of two devices, namely:
-* __Digispark Malduino__
+* __Digispark USB Development Board__
 * __Mass Storage__
 
 __Instructions:__
